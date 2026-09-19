@@ -1,0 +1,11 @@
+[module]
+
+[[module.imports]]
+
+disable = false
+
+ignoreConfig = false
+
+ignoreImports = false
+
+path = 'github.com/gohugo-ananke/ananke/v2'
