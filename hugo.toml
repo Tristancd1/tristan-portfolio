@@ -1,3 +1,11 @@
+# baseURL must match where the site is deployed, e.g.
+#   baseURL = 'https://tristancd1.github.io/tristan-portfolio/'
+# A wrong value breaks every generated link, so set it once the
+# deployment target is decided.
+
+title = 'Tristan Dull'
+copyright = 'Tristan Dull'
+
 [module]
 
 [[module.imports]]
