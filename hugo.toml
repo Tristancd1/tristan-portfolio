@@ -3,8 +3,12 @@
 # A wrong value breaks every generated link, so set it once the
 # deployment target is decided.
 
-title = 'Tristan Dull'
 copyright = 'Tristan Dull'
+
+[params]
+featured_image_class = "cover contain-l bg-top"
+header_section_class = "tc-l pv4 pt3-l pb7-l ph3 ph4-ns"
+cover_dimming_class = "bg-black-40"
 
 [module]
 

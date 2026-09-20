@@ -2,6 +2,8 @@ MIT License
 
 Applies to the site's code — layouts, configuration, styles, and build files.
 Site content under `content/` is licensed separately; see `content/LICENSE`.
+Photographs of the author are NOT covered by this license; all rights are
+reserved in them. See the "Photographs" note at the end of this file.
 
 Copyright (c) 2026 Tristan Dull
 
@@ -22,3 +24,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Photographs
+
+Photographs of the author, including `static/images/img.png`, are
+Copyright (c) 2026 Tristan Dull, all rights reserved. They are not covered by
+the MIT License above, nor by the CC BY-NC license in `content/LICENSE`, and
+may not be reproduced, modified, or redistributed without express permission.

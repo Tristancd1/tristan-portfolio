@@ -23,9 +23,16 @@ Summary:           https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Scope
 
-This license covers original text and images authored by Tristan Dull.
+This license covers original text and images authored by Tristan Dull,
+EXCEPT photographs of the author (see below).
 Third-party material (stock images, fonts, screenshots of other software)
 retains its own license terms.
+
+Photographs of the author, wherever they appear in this repository —
+including `static/images/img.png` — are Copyright (c) 2026 Tristan Dull,
+all rights reserved. They are NOT licensed under CC BY-NC 4.0 or the MIT
+License, and may not be reproduced, modified, or redistributed without
+express permission.
 
 The site's code — layouts, configuration, styles, and build files — is licensed
 separately under the MIT License; see the `LICENSE` file at the repository root.

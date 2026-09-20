@@ -31,10 +31,13 @@ hugo mod get -u
 
 ## License
 
-Two licenses apply to this repository:
+Three different terms apply in this repository:
 
 - **Code** — layouts, configuration, styles, and build files: [MIT](LICENSE)
 - **Content** — posts, project write-ups, and original images under `content/`:
   [CC BY-NC 4.0](content/LICENSE)
+- **Photographs of the author** — including `static/images/img.png`:
+  **all rights reserved.** Not covered by either license above; no reuse,
+  modification, or redistribution without permission.
 
 Third-party material retains its own license terms.
